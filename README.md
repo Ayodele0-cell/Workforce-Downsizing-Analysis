@@ -107,9 +107,10 @@ Cleaning steps:
 
 | File | Description |
 |------|-------------|
-| layoffs.csv | Raw dataset from Kaggle |
-| Data_cleaning_project.sql | SQL script for data cleaning |
-| Data_exploratory_project.sql | SQL script for exploratory analysis |
+| layoffs - Raw Data | Raw dataset from Kaggle |
+| Data_cleaning_&_Exploration_With_SQL | SQL script for data cleaning |
+| Full_Analysis_of_Global_Layoffs | Full Analysis of the SQL script |
+| Global_Layoff_Analysis | Power BI Dashboard |
 | README.md | Project documentation (this file!) |
 
 ---
