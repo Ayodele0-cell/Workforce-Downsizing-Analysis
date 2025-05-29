@@ -130,7 +130,7 @@ Otun Oluwapelumi Ayodele (AAT)
 ## Let’s Connect
 
 Have feedback, collaboration ideas, or job leads?  
-Feel free to open an issue or reach out via X: @FiscalMindAcct, LinkedIn: www.linkedin.com/in/oluwapelumiotun, or oluwapelumiotun@gmail.com.
+Feel free to open an issue or reach out via X: @FiscalMindAcct, LinkedIn: www.linkedin.com/in/oluwapelumiotun, or ayodeleotunfm@gmail.com
 
 ---
 
